@@ -12,6 +12,8 @@
 - 4년여 동안 웹마스터로 일하다가 직접 만들고 싶어서 개발자가 되었습니다.
 - 새로운 것에 열려 있고 사용자의 말에 항상 귀 기울이는 개발자가 되고 싶습니다.
 
+### Skills
+
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
 
 
