@@ -1,8 +1,12 @@
 ### 👋 **안녕하세요!**
 
+
+<a href="https://jupiterwind.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-black?style=flat-square&logo=Android Studio&logoColor=3DDC84"></a>
+
+
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
-<a href="https://jupiterwind.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-black?style=flat-square&logo=Android Studio&logoColor=3DDC84"></a>
+
 
 <!--
 **JupiterWind/JupiterWind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
