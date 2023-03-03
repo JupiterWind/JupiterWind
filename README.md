@@ -2,9 +2,18 @@
 
 <p>
   <a href="https://jupiterwind.github.io/" target="_blank">
-<img src="https://img.shields.io/badge/About Me-F7DF1E?style=for-the-badge&logo=Kong&logoColor=black"></a>
+<img src="https://img.shields.io/badge/About Me-F7DF1E?style=for-the-badge&logo=Buy Me A Coffee&logoColor=black"></a>
    <a href="https://jupiterwind.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/BLOG-white?style=for-the-badge&logo=Buy Me A Coffee&logoColor=black"></a>
+  <img src="https://img.shields.io/badge/BLOG-white?style=for-the-badge&logo=Tistory&logoColor=black"></a>
+</p>
+
+- 앱 만들기 좋아하는 백엔드 개발자입니다.
+
+<p>
+  <ul>
+    <li>앱 만들기 좋아하는 백엔드 개발자입니다.</li>
+    <li>4년여 동안 웹마스터로 일하다가 직접 만들고 싶어서 개발자가 되었습니다.</li>
+  </ul>  
 </p>
 
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
