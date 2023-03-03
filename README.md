@@ -1,8 +1,5 @@
 ### 👋 **안녕하세요!**
 
-
-<a href="https://jupiterwind.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/BLOG-black?style=flat-square&logo=Android Studio&logoColor=3DDC84"></a>
 <a href="https://jupiterwind.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/BLOG-white?style=for-the-badge&logo=Buy Me A Coffee&logoColor=black"></a>
 
