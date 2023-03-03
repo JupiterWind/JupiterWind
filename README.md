@@ -7,14 +7,10 @@
   <img src="https://img.shields.io/badge/BLOG-white?style=for-the-badge&logo=Tistory&logoColor=black"></a>
 </p>
 
+#### 🌓🌔🌕 Back-end, App Developer 🌖🌗🌘
 - 앱 만들기 좋아하는 백엔드 개발자입니다.
-
-<p>
-  <ul>
-    <li>앱 만들기 좋아하는 백엔드 개발자입니다.</li>
-    <li>4년여 동안 웹마스터로 일하다가 직접 만들고 싶어서 개발자가 되었습니다.</li>
-  </ul>  
-</p>
+- 4년여 동안 웹마스터로 일하다가 직접 만들고 싶어서 개발자가 되었습니다.
+- 새로운 것에 열려 있고 사용자의 말에 항상 귀 기울이는 개발자가 되고 싶습니다.
 
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
 
