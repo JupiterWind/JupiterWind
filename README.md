@@ -1,6 +1,6 @@
 ### 👋 **안녕하세요!**
 
-<img src="https://img.shields.io/badge/JAVASCRIPT-#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 
 <!--
 **JupiterWind/JupiterWind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
