@@ -12,14 +12,17 @@
 - 🌼 4년여 동안 웹마스터로 일하다가 직접 만들고 싶어서 개발자가 되었습니다.
 - 🌈 새로운 것에 열려 있고 사용자의 말에 항상 귀 기울이는 개발자가 되고 싶습니다.
 
-### 🎮 Skills
+### 🎮 Skills & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB">
   <img src="https://img.shields.io/badge/Django-white?style=flat&logo=Django&logoColor=092E20">
   <img src="https://img.shields.io/badge/-white?style=flat&logo=Flutter&logoColor=02569B">
+  <img src="https://img.shields.io/badge/-white?style=flat&logo=Dart&logoColor=0175C2">
   <img src="https://img.shields.io/badge/-white?style=flat&logo=JavaScript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/-white?style=flat&logo=Android Studio&logoColor=3DDC84">
   <img src="https://img.shields.io/badge/-white?style=flat&logo=Visual Studio Code&logoColor=007ACC">
+  <img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1">
+  <img src="https://img.shields.io/badge/-white?style=flat&logo=MariaDB&logoColor=003545">
 </p> 
 
 
