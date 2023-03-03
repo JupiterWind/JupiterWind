@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/Django-white?style=flat&logo=Django&logoColor=092E20">
   <img src="https://img.shields.io/badge/-white?style=flat&logo=Flutter&logoColor=02569B">
   <img src="https://img.shields.io/badge/-white?style=flat&logo=JavaScript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/-white?style=flat&logo=Android Studio&logoColor=3DDC84">
+  <img src="https://img.shields.io/badge/-white?style=flat&logo=Visual Studio Code&logoColor=007ACC">
 </p> 
 
 
