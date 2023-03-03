@@ -4,7 +4,7 @@
 <a href="https://jupiterwind.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/BLOG-black?style=flat-square&logo=Android Studio&logoColor=3DDC84"></a>
 <a href="https://jupiterwind.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/BLOG-black?style=for-the-badge&logo=Buy Me A Coffee&logoColor=black"></a>
+  <img src="https://img.shields.io/badge/BLOG-black?style=for-the-badge&logo=Buy Me A Coffee&logoColor=white"></a>
 
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
