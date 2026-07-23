@@ -2,8 +2,7 @@
 
 <p>
   <a href="https://jupiterwind.github.io/" target="_blank">
- <img src="https://img.shields.io/badge/About Me-F7DF1E?style=for-the-badge&logo=BuyMeACoffee&logoColor=black">
-</a>
+ <img src="https://img.shields.io/badge/About Me-F7DF1E?style=for-the-badge&logo=BuyMeACoffee&logoColor=black"></a>
    <a href="https://jupiterwind.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/BLOG-white?style=for-the-badge&logo=Tistory&logoColor=black"></a>
 </p>
