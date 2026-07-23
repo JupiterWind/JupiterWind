@@ -19,8 +19,8 @@
   <img src="https://img.shields.io/badge/-white?style=flat&logo=Flutter&logoColor=02569B">
   <img src="https://img.shields.io/badge/-white?style=flat&logo=Dart&logoColor=0175C2">
   <img src="https://img.shields.io/badge/-white?style=flat&logo=JavaScript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/-white?style=flat&logo=Android Studio&logoColor=3DDC84">
-  <img src="https://img.shields.io/badge/-white?style=flat&logo=Visual Studio Code&logoColor=007ACC">
+  <img src="https://img.shields.io/badge/-white?style=flat&logo=AndroidStudio&logoColor=3DDC84">
+  <img src="https://img.shields.io/badge/-white?style=flat&logo=VisualStudioCode&logoColor=007ACC">
   <img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1">
   <img src="https://img.shields.io/badge/-white?style=flat&logo=MariaDB&logoColor=003545">
 </p> 
